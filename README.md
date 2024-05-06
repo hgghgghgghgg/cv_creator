@@ -23,6 +23,6 @@ Contributions to CV Creator are welcome! If you have any suggestions, bug report
 
 ## Contact
 
-Have any questions or feedback? Feel free to contact us at [webdeveloperefeedbackmail@gmail.com](webdeveloperefeedbackmail@gmail.com).
+Have any questions or feedback? Feel free to contact us at [webdeveloperefeedbackmail@gmail.com](mailto:webdeveloperefeedbackmail@gmail.com).
 
 Thank you for using CV Creator!
