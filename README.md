@@ -12,9 +12,9 @@ CV Creator is a web application designed to help users create professional resum
 - **Secure and Private:** Your data is kept secure and private, with optional account creation for saving and accessing your resumes from anywhere.
 
 ## Technologies Used
-- [React.js](github.com/facebook/react) (Version: 18.2.0)
-- [TypeScript](github.com/Microsoft/TypeScript) (Version: 5.2.2)
-- [Vite](github.com/vitejs/vite) (Version: 5.2.0)
+- [React.js](https://github.com/facebook/react) (Version: 18.2.0)
+- [TypeScript](https://github.com/Microsoft/TypeScript) (Version: 5.2.2)
+- [Vite](https://github.com/vitejs/vite) (Version: 5.2.0)
 - [Classnames](https://github.com/JedWatson/classnames#readme) (Version: 2.5.1)
 
 ## Contributing
